@@ -1,0 +1,9 @@
+{
+  "name": "tanya-kids-collection",
+  "version": "1.0.0",
+  "description": "Tanya Kids Collection - Ethnic Wear for the Whole Family",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
